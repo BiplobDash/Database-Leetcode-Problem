@@ -71,6 +71,7 @@ This repository is created to track my SQL learning journey and help others prep
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/BiplobDash/Database-Leetcode-Problem/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/BiplobDash/Database-Leetcode-Problem/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/BiplobDash/Database-Leetcode-Problem/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/BiplobDash/Database-Leetcode-Problem/tree/master/1068-product-sales-analysis-i) |
